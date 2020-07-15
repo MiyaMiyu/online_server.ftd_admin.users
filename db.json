@@ -1,0 +1,64 @@
+{
+  "role": [
+    {
+      "id": "1",
+      "code": "code1",
+      "name": "Role1",
+      "description": "description1"
+    },
+    {
+      "id": "2",
+      "code": "code2",
+      "name": "Role2",
+      "description": "description2"
+    },
+    {
+      "id": "3",
+      "code": "code3",
+      "name": "Role3",
+      "description": "description3"
+    },
+    {
+      "id": "4",
+      "code": "code4",
+      "name": "Role4",
+      "description": "description4"
+    },
+    {
+      "id": "5",
+      "code": "code5",
+      "name": "Role5",
+      "description": "description5"
+    },
+    {
+      "id": "6",
+      "code": "code6",
+      "name": "Role6",
+      "description": "description6"
+    },
+    {
+      "id": "7",
+      "code": "code7",
+      "name": "Role7",
+      "description": "description7"
+    },
+    {
+      "id": "8",
+      "code": "code8",
+      "name": "Role8",
+      "description": "description8"
+    },
+    {
+      "id": "9",
+      "code": "code9",
+      "name": "Role9",
+      "description": "description9"
+    },
+    {
+      "id": "10",
+      "code": "code10",
+      "name": "Role10",
+      "description": "description10"
+    }
+  ]
+}
